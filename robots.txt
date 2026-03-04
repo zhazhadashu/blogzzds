@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://zhazhadashu.github.io/blogzzds/blogzzds/sitemap.xml
